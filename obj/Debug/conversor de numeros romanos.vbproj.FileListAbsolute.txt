@@ -1,0 +1,5 @@
+C:\Users\kevin\source\Repos\conversor de numeros romanos\conversor de numeros romanos\obj\Debug\conversor de numeros romanos.vbprojAssemblyReference.cache
+C:\Users\kevin\source\Repos\conversor de numeros romanos\conversor de numeros romanos\obj\Debug\conversor_de_numeros_romanos.Form1.resources
+C:\Users\kevin\source\Repos\conversor de numeros romanos\conversor de numeros romanos\obj\Debug\conversor_de_numeros_romanos.Resources.resources
+C:\Users\kevin\source\Repos\conversor de numeros romanos\conversor de numeros romanos\obj\Debug\conversor de numeros romanos.vbproj.GenerateResource.cache
+C:\Users\kevin\source\Repos\conversor de numeros romanos\conversor de numeros romanos\obj\Debug\conversor de numeros romanos.vbproj.CoreCompileInputs.cache
